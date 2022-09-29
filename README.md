@@ -1,5 +1,7 @@
 [![tfsec](https://github.com/sealmindset/terragoat/actions/workflows/tfsec.yml/badge.svg)](https://github.com/sealmindset/terragoat/actions/workflows/tfsec.yml)
 
+[![Snyk Infrastructure as Code](https://github.com/sealmindset/terragoat/actions/workflows/snyk-infrastructure.yml/badge.svg)](https://github.com/sealmindset/terragoat/actions/workflows/snyk-infrastructure.yml)
+
 
 # TerraGoat - Vulnerable Terraform Infrastructure
 
