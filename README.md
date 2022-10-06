@@ -2,6 +2,8 @@
 
 [![Snyk Infrastructure as Code](https://github.com/sealmindset/terragoat/actions/workflows/snyk-infrastructure.yml/badge.svg)](https://github.com/sealmindset/terragoat/actions/workflows/snyk-infrastructure.yml)
 
+SonarQube - [![Build](https://github.com/sealmindset/terragoat/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/sealmindset/terragoat/actions/workflows/build.yml)
+
 
 # TerraGoat - Vulnerable Terraform Infrastructure
 
